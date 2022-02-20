@@ -1,1 +1,5 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5589296,Government of President Ardzinba,1994-01-01,9,1994-01-01,9,2005-02-12,11,2005-01-01,9,,,,,,,,
+,Q5589297,Government of President Bagapsh,2005-01-01,9,2005-01-01,9,2011-10-01,10,2011-01-01,9,,,,,,,,
+,Q5589295,Government of President Ankvab,2011-01-01,9,2011-01-01,9,2014-09-25,11,,,,,,,,,,
+,Q18201806,Government of President Khajimba,2014-09-25,11,,,,,,,,,,,,,,
