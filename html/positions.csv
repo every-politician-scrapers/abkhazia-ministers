@@ -1,8 +1,23 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q1998735,President of Abkhazia,Q31354462,Q31354462,,,1994-11-26,,,,President of Abkhazia
 Q4112592,Vice President of Abkhazia,Q31354462,,,,1994-11-26,,,,Vice President of Abkhazia
+Q110974714,Head of the Presidential Administration,Q31354462,Q31354462,,,,,,,
 Q2655879,Prime Minister of Abkhazia,Q31354462,Q31354462,,,1994-11-26,,,,Prime Minister of Abkhazia
+Q110974717,First Vice Premier of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974720,Vice Premier of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974724,Minister of Agriculture of Abkhazia,Q31354462,Q31354462,,,,,,,
 Q4294436,Minister of Culture of Abkhazia,Q31354462,,,,,,,,Minister for Culture and the Preservation of Historical and Cultural Heritage of Abkhazia
 Q4294826,Minister for Economy of Abkhazia,Q31354462,Q31354462,,,1993-12-12,,,,Minister for Economy of Abkhazia
+Q110974723,Minister of Education of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974734,Minister of Emergency Siutations of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974735,Minister of Energy of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974729,Minister of Finance of Abkhazia,Q31354462,Q31354462,,,,,,,
 Q4294395,Minister for Foreign Affairs of Abkhazia,Q31354462,Q31354462,,,1993-05-17,,,,Minister for Foreign Affairs of Abkhazia
+Q110974722,Minister of Health of Abkhazia,Q31354462,Q31354462,,,,,,,
 Q4294308,Minister for Internal Affairs of Abkhazia,Q31354462,Q31354462,,,1992,,,,Minister for Internal Affairs of Abkhazia
+Q110974733,Minister of Justice of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974727,Minister of Labour of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974736,Minister of Tourism of Abkhazia,Q31354462,Q31354462,,,,,,,
+Q110974721,Chief of the Cabinet Staff,Q31354462,Q31354462,,,,,,,
+Q110974711,Secretary of the Security Council,Q31354462,Q31354462,,,,,,,
+Q110974713,Head of the State Security Service,Q31354462,Q31354462,,,,,,,
