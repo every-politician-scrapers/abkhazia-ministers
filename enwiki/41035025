@@ -1,0 +1,165 @@
+{
+  "title": "Badr Gunba",
+  "pageID": 41035025,
+  "categories": [
+    "Living people",
+    "Vice presidents of Abkhazia",
+    "Ministers for Culture of Abkhazia",
+    "1981 births",
+    "Saratov State Agrarian University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Badr Gunba (born 1981) was the [[Minister for Culture and the Preservation of Historical and Cultural Heritage of Abkhazia|Minister for Culture and the Preservation of Historical and Cultural Heritage]] of Abkhazia from 2011 until 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abkhazia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Badr Gunba"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed by newly elected President Alexander Ankvab on 13 October 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexander Ankvab"
+                }
+              ]
+            },
+            {
+              "text": "Following the May 2014 revolution and the election of President Raul Khajimba, Gunba was replaced as minister by Elvira Arsalia.",
+              "links": [
+                {
+                  "text": "May 2014 revolution",
+                  "type": "internal",
+                  "page": "Abkhazian Revolution"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raul Khajimba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elvira Arsalia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected as Vice President of Abkhazia as the running mate of Aslan Bzhania in the 2020 presidential elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Abkhazia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aslan Bzhania"
+                },
+                {
+                  "text": "the 2020 presidential elections",
+                  "type": "internal",
+                  "page": "2020 Abkhazian presidential election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "topic": "bio",
+          "otherarticle": "Гунба, Бадра Зурабович",
+          "date": "September 2014",
+          "template": "expand russian"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Badr Gunba"
+          },
+          "office": {
+            "text": "7th Vice President of Abkhazia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Abkhazia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 April 2020"
+          },
+          "president": {
+            "text": "Aslan Bzhania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aslan Bzhania"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Aslan Bartsits",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aslan Bartsits"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Sukhumi, Abkhaz ASSR, Georgian SSR, USSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sukhumi"
+              },
+              {
+                "type": "internal",
+                "page": "Abkhaz ASSR"
+              },
+              {
+                "type": "internal",
+                "page": "Georgian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "USSR"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "14 August 1981"
+          },
+          "nationality": {
+            "text": "Abkhazian",
+            "links": [
+              {
+                "text": "Abkhazian",
+                "type": "internal",
+                "page": "Abkhazia"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
