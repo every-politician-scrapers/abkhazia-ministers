@@ -1,12 +1,2 @@
 @@,itemlabel,item,startdate,enddate
-+++,Vladimir Arshba,Q4071020,1993-05-17,1993-09-23
-+++,Sokrat Jinjolia,Q4160321,1993-09-23,1994-11-26
-+++,Leonid Lakerbaia,Q2996248,1995-06-29,1996-07-31
-+++,Konstantin Ozgan,Q4331932,1996-07-31,1997-04-30
-+++,Sergei Shamba,Q737435,1997-04-30,2004-06-18
-+++,Gueorgui Otyrba,Q4340240,2004-06-18,2004-07-28
-+++,Igor Akhba,Q983327,2004-07-28,2004-12-14
-+++,Sergei Shamba,Q737435,2004-12-14,2010-02-26
-+++,Oleg Arshba,,2016-09-20,2016-10-04
-+++,Daur Kove,Q27881276,2016-10-04,2021-11-18
-+++,Inal Ardzinba,Q18043980,2021-11-18,
+->,Oleg Arshba,Q110969349->NULL,2016-09-20,2016-10-04

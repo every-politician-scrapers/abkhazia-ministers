@@ -1,7 +1,4 @@
 @@,itemlabel,item,startdate,enddate
 ->,Alexander Ankvab,Q313355,2011-05-29,2014-06-01->2011-09-26
 +++,Alexander Ankvab,Q313355,2011-09-26,2014-06-01
-+++,Valeri Bganba,Q4080376,2014-06-01,2014-09-25
----,Raul Khadjimba,Q1359023,2014-09-25,
----,Raul Khadjimba,Q1359023,2014-09-25,
-+++,Raul Khajimba,Q1359023,2014-09-25,2020-01-12
+->,Raul Khadjimba->Raul Khajimba,Q1359023,2014-09-25,2020-01-12
