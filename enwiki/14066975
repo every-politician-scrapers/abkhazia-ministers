@@ -1,0 +1,352 @@
+{
+  "title": "Gouvernement de la République d'Abkhazie",
+  "pageID": 14066975,
+  "categories": [
+    "Politique en Abkhazie"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Le gouvernement de l'Abkhazie représente le pouvoir exécutif de la République d'Abkhazie.",
+              "links": [
+                {
+                  "text": "pouvoir exécutif",
+                  "type": "internal",
+                  "page": "pouvoir exécutif"
+                },
+                {
+                  "type": "internal",
+                  "page": "République d'Abkhazie"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "gouvernement de l'Abkhazie"
+                ]
+              }
+            },
+            {
+              "text": "Le pouvoir législatif est assuré par l'Assemblée du peuple qui l'approuve et le contrôle.",
+              "links": [
+                {
+                  "text": "Assemblée du peuple",
+                  "type": "internal",
+                  "page": "Assemblée du peuple de l'Abkhazie"
+                }
+              ]
+            },
+            {
+              "text": "Il est constitué du Premier ministre et des ministres."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Il est dirigé par le Premier ministre, actuellement Alexandre Ankvab.",
+              "links": [
+                {
+                  "text": "Premier ministre",
+                  "type": "internal",
+                  "page": "Premier ministre de l'Abkhazie"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexandre Ankvab"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Abkhazie",
+            "politique"
+          ],
+          "template": "ébauche"
+        },
+        {
+          "list": [
+            "le gouvernement de l'État partiellement reconnu",
+            "le gouvernement géorgien en exil",
+            "Gouvernement de la République autonome d'Abkhazie"
+          ],
+          "template": "autre4"
+        },
+        {
+          "template": "abkhazie"
+        }
+      ],
+      "infoboxes": [
+        {
+          "couleur boîte": {
+            "text": "#008000"
+          },
+          "image": {
+            "text": "Coat of arms of Abkhazia.svg"
+          },
+          "taille image": {
+            "text": "100",
+            "number": 100
+          },
+          "légende": {
+            "text": "Armoiries de l'Abkhazie"
+          },
+          "siège": {
+            "text": "Soukhoumi,",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Soukhoumi"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Histoire",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Le Gouvernement de l'Abkhazie est créé lors de l'indépendance de l'Abkhazie le 23 juillet 1992 et qui donnera lieu à la Guerre d'Abkhazie.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guerre d'Abkhazie"
+                }
+              ]
+            },
+            {
+              "text": "Sa forme actuelle date du 26 novembre 1994, date d'entrée en vigueur de la Constitution.",
+              "links": [
+                {
+                  "text": "Constitution",
+                  "type": "internal",
+                  "page": "Constitution de l'Abkhazie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fonctionnement",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Le secrétaire général du gouvernement est David Sangulia depuis le 4 septembre 2017."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Composition",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Ministère": {
+              "text": "Premier ministre",
+              "links": [
+                {
+                  "text": "'''Premier ministre'''",
+                  "type": "internal",
+                  "page": "Premier ministre de l'Abkhazie"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Premier ministre"
+                ]
+              }
+            },
+            "Titulaire": {
+              "text": "Alexandre Ankvab",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alexandre Ankvab"
+                }
+              ]
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Premier vice-Premier ministre Ministre de l'agriculture"
+            },
+            "Titulaire": {
+              "text": "Belsan Jopua"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Vice-Premier ministre"
+            },
+            "Titulaire": {
+              "text": "Ministre des finances"
+            },
+            "col3": {
+              "text": "Vladimir Delba"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Vice-Premier ministre"
+            },
+            "Titulaire": {
+              "text": "Ministre de l'économie"
+            },
+            "col3": {
+              "text": "Christina Ozgan"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Vice-Premier ministre"
+            },
+            "Titulaire": {
+              "text": "Pustovalov Borisovich"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre des affaires intérieures"
+            },
+            "Titulaire": {
+              "text": "Dmitri Dbar"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de la santé"
+            },
+            "Titulaire": {
+              "text": "Tamaz Tsakhnakia"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre des affaires étrangères"
+            },
+            "Titulaire": {
+              "text": "Daur Kove"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de la culture"
+            },
+            "Titulaire": {
+              "text": "Gudisa Agrba"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de la défense"
+            },
+            "Titulaire": {
+              "text": "Anua Ivanovitch"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de l'impôt et des taxes"
+            },
+            "Titulaire": {
+              "text": "Daur Kurmaziya"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre des situations d'urgence"
+            },
+            "Titulaire": {
+              "text": "Lev Kvitsinia"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de l'éducation et de la politique linguistique"
+            },
+            "Titulaire": {
+              "text": "Inal Gablia"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de la sécurité sociale et de la politique démographique"
+            },
+            "Titulaire": {
+              "text": "Ruslan Adzhba"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre du tourisme"
+            },
+            "Titulaire": {
+              "text": "Teimuraz Khishba"
+            }
+          },
+          {
+            "Ministère": {
+              "text": "Ministre de la justice"
+            },
+            "Titulaire": {
+              "text": "Anri Bartsits"
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes et références",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "références"
+        },
+        {
+          "template": "palette gouvernements d'europe"
+        },
+        {
+          "list": [
+            "Politique",
+            "Abkhazie"
+          ],
+          "template": "portail"
+        }
+      ]
+    }
+  ]
+}
