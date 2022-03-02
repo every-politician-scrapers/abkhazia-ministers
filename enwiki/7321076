@@ -12,9 +12,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "The Government of the Republic of Abkhazia governs the partially recognised Republic of Abkhazia.",
@@ -38,15 +35,6 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Flag of the President of Abkhazia.svg",
-          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_President_of_Abkhazia.svg?width=300",
-          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_President_of_Abkhazia.svg",
-          "caption": "The Presidential Standard",
-          "links": []
-        }
-      ],
       "templates": [
         {
           "list": [
@@ -61,7 +49,66 @@
           "template": "use dmy dates"
         },
         {
-          "template": "politics of abkhazia"
+          "template": "date",
+          "data": {
+            "df": "yes",
+            "year": "1992",
+            "month": "7",
+            "date": "23",
+            "template": "start date and age",
+            "text": "July 23, 1992"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "government_name": {
+            "text": "Government of the Republic of Abkhazia"
+          },
+          "border": {
+            "text": "central"
+          },
+          "image": {
+            "text": "Coat of arms of Abkhazia.svg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "date_established": {
+            "text": "July 23, 1992"
+          },
+          "state": {
+            "text": "Abkhazia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abkhazia"
+              }
+            ]
+          },
+          "leader_title": {
+            "text": "President (Aslan Bzhania) and Prime Minister\n(Alexander Ankvab)",
+            "links": [
+              {
+                "text": " President",
+                "type": "internal",
+                "page": "President of Abkhazia "
+              },
+              {
+                "type": "internal",
+                "page": "Aslan Bzhania"
+              },
+              {
+                "text": " Prime Minister",
+                "type": "internal",
+                "page": "Prime Minister of Abkhazia "
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Ankvab"
+              }
+            ]
+          }
         }
       ]
     },
