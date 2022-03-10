@@ -1,115 +1,13 @@
 {
-  "title": "Aslan Kobakhia",
-  "pageID": 51344722,
-  "categories": [
-    "1960 births",
-    "People from Gudauta District",
-    "Ministers for Internal Affairs of Abkhazia",
-    "Chairmen of the State Committee for Customs of Abkhazia",
-    "5th convocation of the People's Assembly of Abkhazia",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aslan Kobakhia is one of three current Vice Premiers and the current Minister for Internal Affairs of Abkhazia.",
-              "formatting": {
-                "bold": [
-                  "Aslan Kobakhia"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1960",
-          "month": "03",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aslan Kobakhia"
-          },
-          "office": {
-            "text": "Minister for Internal Affairs of Abkhazia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Internal Affairs of Abkhazia"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 August 2016"
-          },
-          "predecessor": {
-            "text": "Leonid Dzapshba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leonid Dzapshba"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chairman of the State Committee for Customs of Abkhazia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Committee for Customs of Abkhazia"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1997",
-            "number": 1997
-          },
-          "term_end1": {
-            "text": "18 December 2002"
-          },
-          "predecessor1": {
-            "text": "Aleksandr Aiba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aleksandr Aiba"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Grigori Enik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grigori Enik"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 23, 1960"
-          },
-          "birth_place": {
-            "text": "Lykhny",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lykhny"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aslan Kobakhia",
+  "office": "Minister for Internal Affairs of Abkhazia",
+  "term_start": "16 August 2016",
+  "predecessor": "Leonid Dzapshba",
+  "office1": "Chairman of the State Committee for Customs of Abkhazia",
+  "term_start1": "1997",
+  "term_end1": "18 December 2002",
+  "predecessor1": "Aleksandr Aiba",
+  "successor1": "Grigori Enik",
+  "birth_date": "March 23, 1960",
+  "birth_place": "Lykhny"
 }
