@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "The Government of President Raul Khajimba is the previous Government of the Republic of Abkhazia.",
+              "text": "The Government of President Raul Khajimba was the Government of the Republic of Abkhazia from 2014 until 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -41,13 +41,6 @@
         {
           "description": "Government of Abkhazia",
           "template": "short description"
-        },
-        {
-          "list": [
-            "Vláda Raula Chadžimby"
-          ],
-          "date": "January 2020",
-          "template": "expand czech"
         }
       ]
     },
@@ -68,7 +61,7 @@
               ]
             },
             "col2": {
-              "text": "Vitali Gabnia 25 September 2014 – present",
+              "text": "Vitali Gabnia 25 September 2014 – 22 August 2018",
               "links": [
                 {
                   "type": "internal",
@@ -99,6 +92,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": "Aslan Bartsits 9 October 2019 – 12 January 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aslan Bartsits"
+                }
+              ]
+            },
+            "col14": {
+              "text": ""
             }
           },
           {
@@ -124,12 +135,9 @@
               "text": ""
             },
             "col6": {
-              "text": ""
-            },
-            "col7": {
               "text": "Dmitri Shamba May 2016"
             },
-            "col8": {
+            "col7": {
               "text": "Beslan Bartsits 16 May 2016 – 5 August 2016",
               "links": [
                 {
@@ -138,15 +146,24 @@
                 }
               ]
             },
-            "col9": {
+            "col8": {
               "text": "Dmitri Shamba 5 August – 10 October 2016"
             },
-            "col10": {
-              "text": "Daur Arshba 10 October 2016 – present",
+            "col9": {
+              "text": "Daur Arshba 10 October 2016 – 24 April 2018",
               "links": [
                 {
                   "type": "internal",
                   "page": "Daur Arshba"
+                }
+              ]
+            },
+            "col10": {
+              "text": "Beslan Bartsits 25 April 2018 – 24 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beslan Bartsits"
                 }
               ]
             }
@@ -156,7 +173,7 @@
               "text": "Secretary of the Security Council"
             },
             "col2": {
-              "text": "Mukhamed Kilba 28 October 2014 – present",
+              "text": "Mukhamed Kilba 28 October 2014 – 21 January 2020",
               "links": [
                 {
                   "type": "internal",
@@ -187,6 +204,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": "Beslan Kvitsinia 22 January 2020 – 28. července 2020"
             }
           },
           {
@@ -194,7 +229,7 @@
               "text": "Head of the State Security Service"
             },
             "col2": {
-              "text": "Zurab Margania 29 September 2014 – present",
+              "text": "Zurab Margania 29 September 2014 – 12 May 2020",
               "links": [
                 {
                   "type": "internal",
@@ -224,6 +259,24 @@
               "text": ""
             },
             "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
               "text": ""
             }
           },
@@ -261,6 +314,24 @@
               "text": ""
             },
             "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
               "text": ""
             }
           },
@@ -309,11 +380,41 @@
               "text": "Shamil Adzynba 26 July – 5 August 2016"
             },
             "col9": {
-              "text": "Beslan Bartsits 5 August 2016 – present",
+              "text": "Beslan Bartsits 5 August 2016 – 24 April 2018",
               "links": [
                 {
                   "type": "internal",
                   "page": "Beslan Bartsits"
+                }
+              ]
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": "Gennady Gagulia 24 April – 8 September 2018",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gennady Gagulia"
+                }
+              ]
+            },
+            "col14": {
+              "text": "Daur Aršba 9 – 18 September 2018"
+            },
+            "col15": {
+              "text": "Valery Bganba 18 September 2018 – 24 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Valery Bganba"
                 }
               ]
             }
@@ -350,6 +451,15 @@
               "text": ""
             },
             "col9": {
+              "text": "Daur Arshba 24 April 2018 – 20 January 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daur Arshba"
+                }
+              ]
+            },
+            "col10": {
               "text": ""
             }
           },
@@ -373,11 +483,20 @@
               "text": ""
             },
             "col5": {
-              "text": "Dmitri Serikov 8 April 2015 – present",
+              "text": "Dmitri Serikov 8 April 2015 – 30 April 2018",
               "links": [
                 {
                   "type": "internal",
                   "page": "Dmitri Serikov"
+                }
+              ]
+            },
+            "col6": {
+              "text": "Djansukh Nanba 30 April 2018 – 30 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djansukh Nanba"
                 }
               ]
             }
@@ -405,11 +524,41 @@
               "text": ""
             },
             "col6": {
-              "text": "Beslan Eshba 12 August 2016 – present",
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": "Beslan Eshba 12 August 2016 – 23 January 2018",
               "links": [
                 {
                   "type": "internal",
                   "page": "Beslan Eshba"
+                }
+              ]
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": "Roman Shoua 30 April 2018 – 28 October 2019",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roman Shoua"
+                }
+              ]
+            },
+            "col12": {
+              "text": "Adgur Ardzinba 28 October 2019 – 4 May 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adgur Ardzinba"
                 }
               ]
             }
@@ -437,16 +586,28 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Aslan Kobakhia 16 August 2016 – present",
+              "text": "Aslan Kobakhia 16 August 2016 – 12 October 2017?",
               "links": [
                 {
                   "type": "internal",
                   "page": "Aslan Kobakhia"
                 }
               ]
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": "Astamur Ketsba 30 April 2018 – 28 October 2019",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Astamur Ketsba"
+                }
+              ]
+            },
+            "col11": {
+              "text": ""
             }
           },
           {
@@ -469,14 +630,38 @@
               "text": ""
             },
             "col5": {
-              "text": ""
-            },
-            "col6": {
-              "text": "Diana Pilia 26 May 2015 – present",
+              "text": "Diana Pilia 26 May 2015 – 10 February 2017",
               "links": [
                 {
                   "type": "internal",
                   "page": "Diana Pilia"
+                }
+              ]
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": "Zurab Marshania 10 February – 4 September 2017"
+            },
+            "col12": {
+              "text": "David Sangulia 4 September 2017 – 22 July 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Sangulia"
                 }
               ]
             }
@@ -516,6 +701,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": ""
             }
           },
           {
@@ -545,9 +748,6 @@
               "text": ""
             },
             "col5": {
-              "text": ""
-            },
-            "col6": {
               "text": "Beslan Khagba 14 May – 9 October 2015",
               "links": [
                 {
@@ -556,7 +756,7 @@
                 }
               ]
             },
-            "col7": {
+            "col6": {
               "text": "Leonid Dzapshba 9 October 2015 – 16 August 2016",
               "links": [
                 {
@@ -565,19 +765,49 @@
                 }
               ]
             },
+            "col7": {
+              "text": ""
+            },
             "col8": {
-              "text": "Aslan Kobakhia 16 August 2016 – present",
+              "text": "Aslan Kobakhia 16 August 2016 – 12 October 2017",
               "links": [
                 {
                   "type": "internal",
                   "page": "Aslan Kobakhia"
                 }
               ]
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": "Garri Arshba 12 October 2017 – 2 December 2019",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Garri Arshba"
+                }
+              ]
+            },
+            "col12": {
+              "text": "Levan Kvaratskhelia 2 – 4 December 2019"
+            },
+            "col13": {
+              "text": "Raul Smyr 4 December 2019 – 30 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raul Smyr"
+                }
+              ]
             }
           },
           {
             "col1": {
-              "text": "Health"
+              "text": "Health since 9 October 2019: Health and Social Security"
             },
             "col2": {
               "text": "David Gunba 15 – 28 October 2014",
@@ -589,7 +819,7 @@
               ]
             },
             "col3": {
-              "text": "Andzor Goov 28 October 2014 – present",
+              "text": "Andzor Goov 28 October 2014 – 5 June 2017",
               "links": [
                 {
                   "type": "internal",
@@ -617,6 +847,15 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": "Tamaz Tsakhnakia 5 June 2017 – 29 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tamaz Tsakhnakia"
+                }
+              ]
             }
           },
           {
@@ -661,7 +900,7 @@
               "text": "Oleg Arshba September – 4 October 2016"
             },
             "col10": {
-              "text": "Daur Kove 4 October 2016 – present",
+              "text": "Daur Kove 4 October 2016 – 15 July 2020",
               "links": [
                 {
                   "type": "internal",
@@ -682,7 +921,7 @@
               ]
             },
             "col2": {
-              "text": "Elvira Arsalia 15 October 2014 – present",
+              "text": "Elvira Arsalia 15 October 2014 – 5 June 2020",
               "links": [
                 {
                   "type": "internal",
@@ -713,6 +952,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": ""
             }
           },
           {
@@ -727,7 +984,7 @@
               ]
             },
             "col2": {
-              "text": "Mirab Kishmaria 15 October 2014 – present",
+              "text": "Mirab Kishmaria 15 October 2014 – 1 June 2020",
               "links": [
                 {
                   "type": "internal",
@@ -758,6 +1015,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": ""
             }
           },
           {
@@ -765,7 +1040,7 @@
               "text": "Education, Science, Sports and Youth Policy since 30 March 2015: Education and Science"
             },
             "col2": {
-              "text": "Adgur Kakoba 15 October 2014 – present",
+              "text": "Adgur Kakoba 15 October 2014 – 19 June 2020",
               "links": [
                 {
                   "type": "internal",
@@ -795,6 +1070,24 @@
               "text": ""
             },
             "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
               "text": ""
             }
           },
@@ -865,16 +1158,16 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Ruslan Ajba 23 August 2016 – present",
+              "text": "Ruslan Ajba 23 August 2016 – 28 October 2019",
               "links": [
                 {
                   "type": "internal",
                   "page": "Ruslan Ajba"
                 }
               ]
+            },
+            "col9": {
+              "text": ""
             }
           },
           {
@@ -906,14 +1199,20 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Dmitri Serikov 12 August 2016 – present",
+              "text": "Dmitri Serikov 12 August 2016 – 30 April 2018",
               "links": [
                 {
                   "type": "internal",
                   "page": "Dmitri Serikov"
+                }
+              ]
+            },
+            "col9": {
+              "text": "Djansukh Nanba 30 April 2018 – 28 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djansukh Nanba"
                 }
               ]
             }
@@ -938,7 +1237,7 @@
               "text": ""
             },
             "col5": {
-              "text": "Adgur Ardzinba 8 April 2015 – present",
+              "text": "Adgur Ardzinba 8 April 2015 – 4 May 2020",
               "links": [
                 {
                   "type": "internal",
@@ -952,7 +1251,7 @@
               "text": "Justice"
             },
             "col2": {
-              "text": "Marina Pilia 17 October 2014 – present",
+              "text": "Marina Pilia 17 October 2014 – 6 July 2020",
               "links": [
                 {
                   "type": "internal",
@@ -983,6 +1282,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": ""
             }
           },
           {
@@ -990,7 +1307,7 @@
               "text": "Emergency Situations"
             },
             "col2": {
-              "text": "Lev Kvitsinia 17 October 2014 – present",
+              "text": "Lev Kvitsinia 17 October 2014 – 29 April 2020",
               "links": [
                 {
                   "type": "internal",
@@ -1020,6 +1337,24 @@
               "text": ""
             },
             "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
               "text": ""
             }
           },
@@ -1057,13 +1392,46 @@
               "text": ""
             },
             "col4": {
-              "text": "Avtandil Gartskia 13 March 2015 – present",
+              "text": "Avtandil Gartskia 13 March 2015 – 28 October 2019",
               "links": [
                 {
                   "type": "internal",
                   "page": "Avtandil Gartskia"
                 }
               ]
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
             }
           },
           {
@@ -1089,11 +1457,64 @@
               ]
             },
             "col6": {
-              "text": "Daur Kurmazia 1 November 2016 – present",
+              "text": "Daur Kurmazia 1 November 2016 – 30 April 2020",
               "links": [
                 {
                   "type": "internal",
                   "page": "Daur Kurmazia"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "Demography and Repatriation"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": "Beslan Dbar 31 October 2019 – 29 April 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beslan Dbar"
                 }
               ]
             }
@@ -1133,6 +1554,24 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            },
+            "col16": {
+              "text": ""
             }
           },
           {
@@ -1155,13 +1594,16 @@
               "text": ""
             },
             "col5": {
-              "text": "Vadim Kharazia 11 April 2015 – present",
+              "text": "Vadim Kharazia 11 April 2015 – 28 October 2019",
               "links": [
                 {
                   "type": "internal",
                   "page": "Vadim Kharazia"
                 }
               ]
+            },
+            "col6": {
+              "text": ""
             }
           },
           {
@@ -1169,7 +1611,7 @@
               "text": "Ecology and the Environment"
             },
             "col2": {
-              "text": "Saveli Chitanava 21 October 2014 – present",
+              "text": "Saveli Chitanava 21 October 2014 – 28 October 2019",
               "links": [
                 {
                   "type": "internal",
@@ -1200,6 +1642,127 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "Resorts and Tourism"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": "Avtandil Gartskia 31 October 2019 – 12 May 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Avtandil Gartskia"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "Agriculture"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": "Amiran Kakalia 31 October 2019 – 19 June 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amiran Kakalia"
+                }
+              ]
             }
           },
           {
@@ -1231,14 +1794,20 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Akhra Pachkoria 1 November 2016 – present",
+              "text": "Akhra Pachkoria 1 November 2016 – 6 November 2019",
               "links": [
                 {
                   "type": "internal",
                   "page": "Akhra Pachkoria"
+                }
+              ]
+            },
+            "col9": {
+              "text": "Garik Samanba 6 November 2019 – 27 May 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Garik Samanba"
                 }
               ]
             }
@@ -1248,7 +1817,7 @@
               "text": "Customs"
             },
             "col2": {
-              "text": "Daur Kobakhia 21 October 2014 – present",
+              "text": "Daur Kobakhia 21 October 2014 – 28 October 2019",
               "links": [
                 {
                   "type": "internal",
@@ -1279,6 +1848,27 @@
             },
             "col10": {
               "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": "Guram Inapshba 28 October 2019 – 22 July 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guram Inapshba"
+                }
+              ]
             }
           },
           {
@@ -1310,10 +1900,7 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Vakhtang Pipia 30 August 2016 – present",
+              "text": "Vakhtang Pipia 30 August 2016 – 22 July 2020",
               "links": [
                 {
                   "type": "internal",
@@ -1324,7 +1911,7 @@
           },
           {
             "col1": {
-              "text": "Youth Policy"
+              "text": "Youth Policy since 16 January 2020: Youth Policy and Sports"
             },
             "col2": {
               "text": ""
@@ -1336,11 +1923,56 @@
               "text": ""
             },
             "col5": {
-              "text": "Alias Avidzba 11 April 2015 – present",
+              "text": "Alias Avidzba 11 April 2015 – 12 September 2017",
               "links": [
                 {
                   "type": "internal",
                   "page": "Alias Avidzba"
+                }
+              ]
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": "Teimuraz Kvekveskiri 12 September 2017 – 16 January 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Teimuraz Kvekveskiri"
+                }
+              ]
+            },
+            "col13": {
+              "text": "Idris Kara-Osman-ogly 16 – 30 January 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Idris Kara-Osman-ogly"
+                }
+              ]
+            },
+            "col14": {
+              "text": "Mikhail Pikanin 30 January – 21 May 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mikhail Pikanin"
                 }
               ]
             }
@@ -1359,13 +1991,16 @@
               "text": ""
             },
             "col5": {
-              "text": "Bagrat Khutaba 11 April 2015 – present",
+              "text": "Bagrat Khutaba 11 April 2015 – 16 January 2020",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bagrat Khutaba"
                 }
               ]
+            },
+            "col6": {
+              "text": ""
             }
           },
           {
@@ -1391,14 +2026,73 @@
               "text": ""
             },
             "col8": {
-              "text": ""
-            },
-            "col9": {
-              "text": "Nurbei Lomia 5 September 2016 – present",
+              "text": "Nurbei Lomia 5 September 2016 – 6 November 2019",
               "links": [
                 {
                   "type": "internal",
                   "page": "Nurbei Lomia"
+                }
+              ]
+            },
+            "col9": {
+              "text": "Batal Khagush 6 November 2019 – 19 June 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Batal Khagush"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "Statistics"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            },
+            "col11": {
+              "text": ""
+            },
+            "col12": {
+              "text": ""
+            },
+            "col13": {
+              "text": ""
+            },
+            "col14": {
+              "text": ""
+            },
+            "col15": {
+              "text": "Kama Gogia 6 November 2019 – 20 May 2020",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kama Gogia"
                 }
               ]
             }
@@ -1758,7 +2452,7 @@
           "type": "news"
         },
         {
-          "title": "У к а з «О председателе Государственного комитета Республики Абхазия по управлению государственным имуществом и приватизации»",
+          "title": "У к а з \"О председателе Государственного комитета Республики Абхазия по управлению государственным имуществом и приватизации\"",
           "url": "http://apsnypress.info/news/13345.html",
           "access-date": "26 October 2014",
           "agency": "Apsnypress",
@@ -1770,7 +2464,7 @@
           "type": "news"
         },
         {
-          "title": "У к а з «О председателе Государственного комитета Республики Абхазия по стандартам, потребительскому и техническому надзору»",
+          "title": "У к а з \"О председателе Государственного комитета Республики Абхазия по стандартам, потребительскому и техническому надзору\"",
           "url": "http://apsnypress.info/news/13346.html",
           "access-date": "26 October 2014",
           "agency": "Apsnypress",
@@ -1794,7 +2488,7 @@
           "type": "news"
         },
         {
-          "title": "У К А З «О секретаре Совета безопасности Республики Абхазия»",
+          "title": "У К А З \"О секретаре Совета безопасности Республики Абхазия\"",
           "url": "http://apsnypress.info/news/13363.html",
           "access-date": "29 October 2014",
           "agency": "Apsnypress",
@@ -1813,16 +2507,6 @@
       "paragraphs": [
         {
           "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2020",
-          "template": "cn"
-        },
-        {
-          "date": "December 2020",
-          "template": "cn"
         }
       ],
       "lists": [
@@ -2109,10 +2793,431 @@
           },
           {
             "text": "On 5 November, the three-month deadline for appointing the new government formally expired. On 14 November, the Chairmen of the Customs and Repatriation State Committees were re-appointed."
+          },
+          {
+            "text": "On 10 February 2017 the Chief of the Cabinet Staff Diana Pilia appointed as a new member of the Constitutional court, therefore her deputy Zurab Marshania temporarily assumed her place as a Chief of the Cabinet Staff. David Sangulia was appointed as a definite solution more than half year later on 4 September.",
+            "links": [
+              {
+                "text": "2017",
+                "type": "internal",
+                "page": "2017"
+              },
+              {
+                "type": "internal",
+                "page": "Diana Pilia"
+              },
+              {
+                "text": "Constitutional court",
+                "type": "internal",
+                "page": "Constitutional Court of Abkhazia"
+              },
+              {
+                "type": "internal",
+                "page": "Zurab Marshania"
+              },
+              {
+                "type": "internal",
+                "page": "David Sangulia"
+              }
+            ]
+          },
+          {
+            "text": "In June 2017 Health Minister Andzor Goov resigned and Tamaz Tsakhnakia became his successor on 5 June.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andzor Goov"
+              },
+              {
+                "type": "internal",
+                "page": "Tamaz Tsakhnakia"
+              }
+            ]
+          },
+          {
+            "text": "On 12 September 2017 Teimuraz Kvekveskiri was appointed as a new Chairman of the Youth Policy State Committee.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teimuraz Kvekveskiri"
+              }
+            ]
+          },
+          {
+            "text": "On 12 October 2017 President Khajimba appointed the new Interior Minister Garri Arshba.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Garri Arshba"
+              }
+            ]
+          },
+          {
+            "text": "On 24 April 2018 President Khajimba made a decision to do major changes in his government and the first move was to issue a decree of appointment of the new Prime Minister Gennady Gagulia. The previous Prime Minister Beslan Bartsits returned to his position of the Head of the Presidential Administration.",
+            "links": [
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "2018"
+              },
+              {
+                "type": "internal",
+                "page": "Gennady Gagulia"
+              }
+            ]
+          },
+          {
+            "text": "On 30 April of that year the Vice Premiers were changed (Astamur Ketsba and Roman Shoua ) as well as one Minister. Djansukh Nanba was appointed as a new Finance Minister.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Astamur Ketsba"
+              },
+              {
+                "type": "internal",
+                "page": "Roman Shoua"
+              },
+              {
+                "type": "internal",
+                "page": "Djansukh Nanba"
+              }
+            ]
+          },
+          {
+            "text": "On 22 August Vice President Vitali Gabnia resigned. His move was motivated by his desire to protect his honour and as a protest against injistice and against inaction of the justice in Abkhazia because of a recent case about a physical attack on him. His office remained vacant after his resignation.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vitali Gabnia"
+              }
+            ]
+          },
+          {
+            "text": "After a tragic event resulting in death of the Prime Minister Gennady Gagulia on 8 September 2018 First Vice Premier Daur Arshba was appointed as his temporary successor. On 18 September 2018 the proper Gagulia's successor was appointed: Valeri Bganba.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daur Arshba"
+              },
+              {
+                "type": "internal",
+                "page": "Valeri Bganba"
+              }
+            ]
+          },
+          {
+            "text": "On 21 September 2018 the Agriculture Minister Daur Tarba resigned. Since then no successor had been appointed.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daur Tarba"
+              }
+            ]
+          },
+          {
+            "text": "On 9 October 2019 President Raul Khajimba was sworn in as he had been re-elected on 8 September. He chose a new Vice President Aslan Bartsits. Next day Khajimba accepted resignation of the entire cabinet in wake of the elections.",
+            "links": [
+              {
+                "text": "re-elected",
+                "type": "internal",
+                "page": "2019 Abkhazian presidential election"
+              },
+              {
+                "type": "internal",
+                "page": "Aslan Bartsits"
+              }
+            ]
+          },
+          {
+            "text": "On 28 October 2019 President Khajimba issued a decree of government restructuring. Ministries of Resorts and Tourism, Labour, Employment and Social Security, and Agriculture were abolished. Social Security department was transferred to the Health Ministry and for the tourism and agriculture two new State Committees were created. But the State Committee for Repatriation was reformed as a Ministry and the State Committee for Ecology and the Environment was abolished. On the same day he re-appointed the people from his previous cabinet: his Prime Minister, First Vice Premier, Head of the Presidential Administration and some other ministers or chairmen of the State Committees. He appointed Guram Inapshba as a new head of the Customs State Committee. Three days later Beslan Dbar was appointed as a new head of newly created Demography and Repatriation Ministry and Avtandil Gartskia was appointed as a new head of the Tourism State Ministerm to continue his work in this department. On 6 November new heads of some State Committees were appointed: Garik Samanba as a head of the Standards, Consumer and Technical Supervision State Committee, Batal Khagush as head of the State Language Policy Committee and Kama Gogia as a head of the Statistics Committee.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guram Inapshba"
+              },
+              {
+                "type": "internal",
+                "page": "Beslan Dbar"
+              },
+              {
+                "type": "internal",
+                "page": "Avtandil Gartskia"
+              },
+              {
+                "type": "internal",
+                "page": "Garik Samanba"
+              },
+              {
+                "type": "internal",
+                "page": "Batal Khagush"
+              },
+              {
+                "type": "internal",
+                "page": "Kama Gogia"
+              }
+            ]
+          },
+          {
+            "text": "As a result of the pressure from about 300 protesters, on 2 December 2019 Khajimba was forced to dismiss his Interior Minister Garri Arshba. According to Khajimba, the official reason from his dismissal were dissatisfactory results of investigation the case of a recent mass murder which enacted this political crisis. The Ministry was temporarily led by its Deputy Minister Levan Kvaratskhelia. Arshba's official successor became Raul Smyr two days later.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Garri Arshba"
+              },
+              {
+                "type": "internal",
+                "page": "Levan Kvaratskhelia"
+              },
+              {
+                "type": "internal",
+                "page": "Raul Smyr"
+              }
+            ]
+          },
+          {
+            "text": "On 12 January 2020 President Raul Khajimba resigned from his office as a result of the strong opposition protests taking place in Sukhum for several days after the results of the aforementioned presidential elections were nullified by the decision of the Supreme Court of the Republic of Abkhazia. The same day his Vice Prezident Aslan Bartsits filled his resignation as well. This meant the end of this government whose members were now in the roles of acting ministers, heads of the State Committees etc., until new government was appointed. The People's Assembly of Abkhazia appointed the Prime Minister Valery Bganba as an acting president who then left the majority of Khajimba's cabinet in their positions. He only merged the State Committees for the Youth Policy and for the Physical Culture and Sports. On 16 January 2020 Idris Kara-Osman-ogly became a new head of this merged State Committee.",
+            "links": [
+              {
+                "text": "2020",
+                "type": "internal",
+                "page": "2020"
+              },
+              {
+                "type": "internal",
+                "page": "Aslan Bartsits"
+              },
+              {
+                "type": "internal",
+                "page": "People's Assembly of Abkhazia"
+              },
+              {
+                "type": "internal",
+                "page": "Valery Bganba"
+              },
+              {
+                "type": "internal",
+                "page": "Idris Kara-Osman-ogly"
+              }
+            ]
+          },
+          {
+            "text": "On 20 January 2020 Daur Arshba resigned from his position of the First Vice Premier. Two days later Bganba appointed Beslan Kvitsinia as an acting Secretary of the Security Council.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daur Arshba"
+              },
+              {
+                "type": "internal",
+                "page": "Beslan Kvitsinia"
+              }
+            ]
+          },
+          {
+            "text": "On 30 January, after 2 weeks in the office, Idris Kara-Osman-ogly resigned from his position of the Chairman of the State Committee for the Youth Policy and Sports. His successor became Mikhail Pikanin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Idris Kara-Osman-ogly"
+              },
+              {
+                "type": "internal",
+                "page": "Mikhail Pikanin"
+              }
+            ]
+          },
+          {
+            "text": "On 24 April 2020 Aslan Bzhania, new President of the Republic of Abkhazia, was sworn in. On that day he accepted the resignation of this cabinet. The ministers continued their work until Bzhania appointed their successors.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aslan Bzhania"
+              }
+            ]
           }
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "title": "Андзор Гоов назначен министром здравоохранения Республики Абхазия",
           "url": "http://apsnypress.info/news/13362.html",
@@ -2265,7 +3370,7 @@
           "type": "news"
         },
         {
-          "title": "РАУЛЬ ХАДЖИМБА: «РЕШЕНИЕ О ТОМ, КАКИМ СТАНЕТ ОБЛИК ГОРОДА, ДОЛЖНЫ ПРИНИМАТЬ ВЫ – ТКУАРЧАЛЬЦЫ»",
+          "title": "РАУЛЬ ХАДЖИМБА: \"РЕШЕНИЕ О ТОМ, КАКИМ СТАНЕТ ОБЛИК ГОРОДА, ДОЛЖНЫ ПРИНИМАТЬ ВЫ – ТКУАРЧАЛЬЦЫ\"",
           "url": "http://abkhazinform.com/item/3749-raul-khadzhimba-reshenie-o-tom-kakim-stanet-oblik-goroda-dolzhny-prinimat-vy-tkuarchaltsy",
           "access-date": "18 May 2016",
           "agency": "Abkhazia Inform",
@@ -2466,7 +3571,7 @@
           "type": "news"
         },
         {
-          "title": "«ГЛАВНОЙ ПРИЧИНОЙ НЕ ПЕРЕНАЗНАЧЕНИЯ МИНИСТРА ИНОСТРАННЫХ ДЕЛ ВЯЧЕСЛАВА ЧИРИКБА ЯВЛЯЕТСЯ ЕГО ОТКАЗ ВОЗГЛАВИТЬ АБХАЗСКУЮ ДЕЛЕГАЦИЮ В ПОЕЗДКЕ В ПМР», - ПРЕСС-СЛУЖБА ПРЕЗИДЕНТА АБХАЗИИ",
+          "title": "\"ГЛАВНОЙ ПРИЧИНОЙ НЕ ПЕРЕНАЗНАЧЕНИЯ МИНИСТРА ИНОСТРАННЫХ ДЕЛ ВЯЧЕСЛАВА ЧИРИКБА ЯВЛЯЕТСЯ ЕГО ОТКАЗ ВОЗГЛАВИТЬ АБХАЗСКУЮ ДЕЛЕГАЦИЮ В ПОЕЗДКЕ В ПМР\", - ПРЕСС-СЛУЖБА ПРЕЗИДЕНТА АБХАЗИИ",
           "url": "http://abkhazinform.com/item/4604-glavnoj-prichinoj-ne-perenaznacheniya-ministra-inostrannykh-del-vyacheslava-chirikba-yavlyaetsya-ego-otkaz-vozglavit-abkhazskuyu-delegatsiyu-v-poezdke-v-pmr-press-sluzhba-prezidenta-abkhazii",
           "access-date": "15 November 2016",
           "agency": "Abkhazia Inform",
@@ -2547,6 +3652,14 @@
           "date": "14 November 2016",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "December 2020",
+          "template": "citation needed"
+        },
+        {
+          "date": "December 2020",
+          "template": "citation needed"
         }
       ]
     },
