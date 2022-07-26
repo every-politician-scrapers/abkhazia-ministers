@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for Internal Affairs of Abkhazia"
+      ],
+      "stated_as": "Minister for Internal Affairs of Abkhazia"
+    },
+    "P580": "1992-06-24",
+    "P1365": {
+      "links": [
+        "Givi Lominadze"
+      ],
+      "stated_as": "Givi Lominadze"
+    },
+    "P582": "1993",
+    "P1366": {
+      "links": [
+        "Givi Agrba"
+      ],
+      "stated_as": "Givi Agrba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Abkhazia"
+      ],
+      "stated_as": "Prime Minister of Abkhazia"
+    },
+    "P580": "2005-02-14",
+    "P1365": {
+      "links": [
+        "Nodar Khashba"
+      ],
+      "stated_as": "Nodar Khashba"
+    },
+    "P582": "2010-02-13",
+    "P1366": {
+      "links": [
+        "Sergei Shamba"
+      ],
+      "stated_as": "Sergei Shamba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Abkhazia"
+      ],
+      "stated_as": "Vice President of Abkhazia"
+    },
+    "P580": "2010-02-12",
+    "P1365": {
+      "links": [
+        "Raul Khajimba"
+      ],
+      "stated_as": "Raul Khajimba"
+    },
+    "P582": "2011-05-29",
+    "P1366": {
+      "links": [
+        "Mikhail Logua"
+      ],
+      "stated_as": "Mikhail Logua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Abkhazia"
+      ],
+      "stated_as": "3rd President of Abkhazia"
+    },
+    "P580": "2011-05-29",
+    "P1365": {
+      "links": [
+        "Sergei Bagapsh"
+      ],
+      "stated_as": "Sergei Bagapsh"
+    },
+    "P582": "2014-06-01",
+    "P1366": {
+      "links": [
+        "Valeri Bganba"
+      ],
+      "stated_as": "Valeri Bganba (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Abkhazia"
+      ],
+      "stated_as": "Prime Minister of Abkhazia"
+    },
+    "P580": "2020-04-23",
+    "P1365": {
+      "links": [
+        "Valeri Bganba"
+      ],
+      "stated_as": "Valeri Bganba"
+    }
+  }
+]

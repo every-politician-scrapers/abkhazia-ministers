@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Security Service of Abkhazia"
+      ],
+      "stated_as": "Head of the State Security Service"
+    },
+    "P580": "2010-02-23",
+    "P1365": {
+      "links": [
+        "Iuri Ashuba"
+      ],
+      "stated_as": "Iuri Ashuba"
+    },
+    "P582": "2014-09-29",
+    "P1366": {
+      "links": [
+        "Zurab Margania"
+      ],
+      "stated_as": "Zurab Margania"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Abkhazia"
+      ],
+      "stated_as": "President of Abkhazia"
+    },
+    "P580": "2020-04-23",
+    "P1365": {
+      "links": [
+        "Valeri Bganba"
+      ],
+      "stated_as": "Valeri Bganba (acting)"
+    }
+  }
+]

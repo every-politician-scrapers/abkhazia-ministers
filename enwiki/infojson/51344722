@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Committee for Customs of Abkhazia"
+      ],
+      "stated_as": "Chairman of the State Committee for Customs of Abkhazia"
+    },
+    "P580": "1997",
+    "P1365": {
+      "links": [
+        "Aleksandr Aiba"
+      ],
+      "stated_as": "Aleksandr Aiba"
+    },
+    "P582": "2002-12-18",
+    "P1366": {
+      "links": [
+        "Grigori Enik"
+      ],
+      "stated_as": "Grigori Enik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Internal Affairs of Abkhazia"
+      ],
+      "stated_as": "Minister for Internal Affairs of Abkhazia"
+    },
+    "P580": "2016-08-16",
+    "P1365": {
+      "links": [
+        "Leonid Dzapshba"
+      ],
+      "stated_as": "Leonid Dzapshba"
+    }
+  }
+]
