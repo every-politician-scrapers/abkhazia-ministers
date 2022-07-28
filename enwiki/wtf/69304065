@@ -180,6 +180,27 @@
         {
           "sentences": [
             {
+              "text": "In July 2022, Ardzinba proposed to move the Geneva International Discussions \"to another more neutral city\" like Minsk or Istanbul.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Geneva International Discussions"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minsk"
+                },
+                {
+                  "type": "internal",
+                  "page": "Istanbul"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "According to Yevgeny Yasin, Vladislav Ardzinba is Inal Ardzinba's uncle.",
               "links": [
                 {
@@ -303,6 +324,12 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
